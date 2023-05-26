@@ -31,4 +31,4 @@ if ($conn->affected_rows != 0){
     $_SESSION["error"] = "Nie zaktualizowano użytkownika!";
 }
 
-header ("location: ../3_db_table_delete_add.php");
+header ("location: ../3_db_table_delete_add_oneline.php");

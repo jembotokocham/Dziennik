@@ -1,3 +1,3 @@
 <?php
-  $conn = new mysqli("localhost", "root", "", "baza");
+  $conn = new mysqli("localhost", "root", "", "grade_book");
 ?>
